@@ -1,1 +1,1 @@
-Test
+Tema proiectului combină criptografia și procesarea digitală a imaginilor. Criptarea și decriptarea unui mesaj (particularizat în acest proiect la o imagine) și recunoașterea unor pattern-uri (particularizat în acest proiect la cifre scrise de mână) într-o imagine.
